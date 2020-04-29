@@ -20,6 +20,7 @@ class AncestorComponent extends MunkeyReact.Component {
 
 
   render() {
+
     return(
       <div className="ancestor-wrapper">
         <div></div>
